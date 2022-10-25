@@ -1,5 +1,5 @@
 int a,b,c
 c=a+b
 print c
-c=d
-print d
+c=e
+print e
