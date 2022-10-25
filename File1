@@ -3,3 +3,4 @@ c=a+b
 print c
 c=e
 print e
+f=1
